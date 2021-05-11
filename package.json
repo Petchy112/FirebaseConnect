@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "firebase-admin": "^9.8.0",
+    "firebase-tools": "^9.10.2",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
